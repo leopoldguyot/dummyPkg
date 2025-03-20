@@ -3,6 +3,6 @@
 #' @returns NULL
 #' @export
 sleepy <- function() {
-    message("Sleeping for 2 seconds")
-    Sys.sleep(2)
+    message("Sleeping for 1 seconds")
+    Sys.sleep(1)
 }
