@@ -1,6 +1,6 @@
 Package: dummyPkg
 Type: Package
-Title: Dummy package for illustration purpose for the VerR package. 
+Title: Dummy package to illustrate the VerR package. 
 Version: 0.1.0
 Authors@R: c(
     person(
